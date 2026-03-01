@@ -6,7 +6,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  > whoami                                                    ║
-║  Jesse Amiandah — Full Stack Dev, QA Tester, AI Annotator   ║
+║  Jesse Amiandah - Full Stack Dev, QA Tester, AI Annotator   ║
 ║  Location: Mombasa, Kenya  //  Status: Open to Remote       ║
 ║  Stack: Python · JS/TS · Django · Next.js · PostgreSQL      ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -22,15 +22,15 @@
 class Jesse:
     role       = ["Full Stack Developer", "Manual QA Tester", "AI Data Annotator"]
     location   = "Mombasa, Kenya 🌍 (Open to Remote)"
-    education  = "B.Sc. Information Technology — Technical University of Mombasa (2024)"
+    education  = "B.Sc. Information Technology - Technical University of Mombasa (2024)"
     experience = "2+ years self-directed · AIRS platform · 5 crowd-testing platforms"
     currently  = "Building real products · Growing toward senior-level mentorship"
     contact    = "amiandajesse27@gmail.com"
     fun_facts  = [
-        "Debugged production at community radio (SwahilipotFM) — live audience pressure 📡",
+        "Debugged production at community radio (SwahilipotFM) - live audience pressure 📡",
         "Built Web3 wallet sync for a real regenerative stewardship platform 🌱",
         "Hackathon survivor: Kachiri and Code · Afrikas Talking · Green World Campaign 🏆",
-        "Tested apps on 5 crowd-testing platforms simultaneously — multitasking is my API",
+        "Tested apps on 5 crowd-testing platforms simultaneously - multitasking is my API",
     ]
 ```
 
@@ -86,10 +86,12 @@ class Jesse:
 
 | Project | Stack | Description |
 |---|---|---|
-| 🌱 **[AIRS](https://github.com/Green-World-Campaign-Kenya/airs)** | Next.js · PostgreSQL · Supabase · Web3 | Regenerative stewardship incentive platform with crypto wallet sync & stablecoin distribution |
-| ✅ **[Team Task Manager](https://github.com/iRobot90/team-task-management-system)** | Node.js · PostgreSQL · RBAC | Multi-role task management with scoped API access and full task lifecycle tracking |
-| 📻 **[SwahilipotFM](https://github.com/amiandah/swahilipot-fm)** | CSS · Frontend | Live community radio platform serving real users in Mombasa |
-| 🛒 **[TwanaBabyShop](https://github.com/iRobot90/twanababyshop)** | React · JavaScript | E-commerce site for baby products |
+| ![web3](https://img.shields.io/badge/-Web3-0a0a0a?style=flat-square&logo=ethereum&logoColor=00FF41) **[AIRS](https://github.com/Green-World-Campaign-Kenya/airs)** | ![Next.js](https://img.shields.io/badge/-Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=00FF41) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41) ![Supabase](https://img.shields.io/badge/-Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=00FF41) | Regenerative stewardship incentive platform with crypto wallet sync and stablecoin distribution |
+| ![node](https://img.shields.io/badge/-Node-0a0a0a?style=flat-square&logo=node.js&logoColor=00FF41) **[Team Task Manager](https://github.com/iRobot90/team-task-management-system)** | ![Node.js](https://img.shields.io/badge/-Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=00FF41) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00FF41) | Multi-role task management with RBAC, scoped API access and full task lifecycle tracking |
+| ![css](https://img.shields.io/badge/-Frontend-0a0a0a?style=flat-square&logo=css3&logoColor=00FF41) **[SwahilipotFM](https://github.com/amiandah/swahilipot-fm)** | ![CSS3](https://img.shields.io/badge/-CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=00FF41) ![HTML5](https://img.shields.io/badge/-HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=00FF41) | Public-facing platform for a live community radio station serving Mombasa |
+| ![react](https://img.shields.io/badge/-React-0a0a0a?style=flat-square&logo=react&logoColor=00FF41) **[TwanaBabyShop](https://github.com/iRobot90/twanababyshop)** | ![React](https://img.shields.io/badge/-React-0a0a0a?style=flat-square&logo=react&logoColor=00FF41) ![JavaScript](https://img.shields.io/badge/-JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00FF41) | E-commerce site for baby products built with React |
+| ![django](https://img.shields.io/badge/-Django-0a0a0a?style=flat-square&logo=django&logoColor=00FF41) **[Code and Bugs Showcase](https://github.com/iRobot90/code-and-bugs-showcase)** | ![TypeScript](https://img.shields.io/badge/-TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=00FF41) | Dev showcase project demonstrating full stack capabilities and QA practices |
+| ![hackathon](https://img.shields.io/badge/-Hackathon-0a0a0a?style=flat-square&logo=github&logoColor=00FF41) **[HACKERTHON](https://github.com/iRobot90/HACKERTHON)** | ![JavaScript](https://img.shields.io/badge/-JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00FF41) | Hackathon project built under time-constrained sprint conditions |
 
 ---
 
@@ -97,14 +99,64 @@ class Jesse:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iRobot90&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRobot90&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00FF41&title_color=00FF41&text_color=cccccc&hide_border=false" />
+<!-- Real-time stats - refresh on every profile visit -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iRobot90&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRobot90&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00FF41&title_color=00FF41&text_color=cccccc&langs_count=8" />
+
+<!-- Real-time streak -->
+<br/>
+<img src="https://streak-stats.demolab.com?user=iRobot90&theme=terminal&background=0a0a0a&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=cccccc" />
 
 </div>
 
+---
+
+## `> cat top_repos.txt`
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iRobot90&theme=terminal&background=0a0a0a&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=cccccc)
+<!-- Auto-updates with your most-contributed repos -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=team-task-management-system&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=code-and-bugs-showcase&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Green-World-Campaign-Kenya&repo=airs&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=twanababyshop&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc" />
+
+</div>
+
+---
+
+## `> tail -f activity.log`
+
+<div align="center">
+
+<!-- Auto-updates every time the workflow runs (set up via GitHub Actions) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iRobot90&bg_color=0a0a0a&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false&border_color=00FF41)
+
+</div>
+
+---
+
+## `> snake --eat-contributions`
+
+<div align="center">
+
+<!-- Generated daily by GitHub Actions workflow - see .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iRobot90/iRobot90/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iRobot90/iRobot90/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/iRobot90/iRobot90/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## `> fortune --dev`
+
+<div align="center">
+
+<!-- Rotates a new programming quote every day -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=00FF41&author_color=888888&bg_color=0a0a0a&border_color=00FF41" alt="Dev Quote of the Day" />
 
 </div>
 
