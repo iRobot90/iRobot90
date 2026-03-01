@@ -115,10 +115,12 @@ class Jesse:
 
 <div align="center">
 
-[![team-task-management-system](https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=team-task-management-system&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&cache_seconds=86400)](https://github.com/iRobot90/team-task-management-system)
-[![code-and-bugs-showcase](https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=code-and-bugs-showcase&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&cache_seconds=86400)](https://github.com/iRobot90/code-and-bugs-showcase)
-[![airs](https://github-readme-stats.vercel.app/api/pin/?username=Green-World-Campaign-Kenya&repo=airs&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&cache_seconds=86400)](https://github.com/Green-World-Campaign-Kenya/airs)
-[![twanababyshop](https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=twanababyshop&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&cache_seconds=86400)](https://github.com/iRobot90/twanababyshop)
+[![AIRS](https://img.shields.io/badge/AIRS-Regenerative%20Stewardship%20Platform-0a0a0a?style=for-the-badge&logo=ethereum&logoColor=00FF41)](https://github.com/Green-World-Campaign-Kenya/airs)
+[![Team Task Manager](https://img.shields.io/badge/Team%20Task%20Manager-RBAC%20Task%20Management-0a0a0a?style=for-the-badge&logo=node.js&logoColor=00FF41)](https://github.com/iRobot90/team-task-management-system)
+[![Code and Bugs Showcase](https://img.shields.io/badge/Code%20and%20Bugs%20Showcase-Full%20Stack%20Demo-0a0a0a?style=for-the-badge&logo=typescript&logoColor=00FF41)](https://github.com/iRobot90/code-and-bugs-showcase)
+[![TwanaBabyShop](https://img.shields.io/badge/TwanaBabyShop-React%20E--Commerce-0a0a0a?style=for-the-badge&logo=react&logoColor=00FF41)](https://github.com/iRobot90/twanababyshop)
+[![SwahilipotFM](https://img.shields.io/badge/SwahilipotFM-Community%20Radio%20Platform-0a0a0a?style=for-the-badge&logo=css3&logoColor=00FF41)](https://github.com/amiandah/swahilipot-fm)
+[![HACKERTHON](https://img.shields.io/badge/HACKERTHON-Hackathon%20Project-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/iRobot90/HACKERTHON)
 
 </div>
 
