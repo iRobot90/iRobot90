@@ -27,9 +27,9 @@ class Jesse:
     currently  = "Building real products · Growing toward senior-level mentorship"
     contact    = "amiandajesse27@gmail.com"
     fun_facts  = [
-        "Debugged production at community radio (SwahilipotFM) - live audience pressure ",
-        "Built Web3 wallet sync for a real regenerative stewardship platform ",
-        "Hackathon survivor: Kachiri and Code · Afrikas Talking · Green World Campaign ",
+        "Debugged production at community radio (SwahilipotFM) - live audience pressure 📡",
+        "Built Web3 wallet sync for a real regenerative stewardship platform 🌱",
+        "Hackathon survivor: Kachiri and Code · Afrikas Talking · Green World Campaign 🏆",
         "Tested apps on 5 crowd-testing platforms simultaneously - multitasking is my API",
     ]
 ```
@@ -115,11 +115,10 @@ class Jesse:
 
 <div align="center">
 
-<!-- Auto-updates with your most-contributed repos -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=team-task-management-system&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=code-and-bugs-showcase&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Green-World-Campaign-Kenya&repo=airs&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=twanababyshop&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc" />
+[![team-task-management-system](https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=team-task-management-system&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&cache_seconds=86400)](https://github.com/iRobot90/team-task-management-system)
+[![code-and-bugs-showcase](https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=code-and-bugs-showcase&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&cache_seconds=86400)](https://github.com/iRobot90/code-and-bugs-showcase)
+[![airs](https://github-readme-stats.vercel.app/api/pin/?username=Green-World-Campaign-Kenya&repo=airs&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&cache_seconds=86400)](https://github.com/Green-World-Campaign-Kenya/airs)
+[![twanababyshop](https://github-readme-stats.vercel.app/api/pin/?username=iRobot90&repo=twanababyshop&bg_color=0a0a0a&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=cccccc&cache_seconds=86400)](https://github.com/iRobot90/twanababyshop)
 
 </div>
 
