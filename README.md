@@ -27,9 +27,9 @@ class Jesse:
     currently  = "Building real products · Growing toward senior-level mentorship"
     contact    = "amiandajesse27@gmail.com"
     fun_facts  = [
-        "Debugged production at community radio (SwahilipotFM) - live audience pressure 📡",
-        "Built Web3 wallet sync for a real regenerative stewardship platform 🌱",
-        "Hackathon survivor: Kachiri and Code · Afrikas Talking · Green World Campaign 🏆",
+        "Debugged production at community radio (SwahilipotFM) - live audience pressure ",
+        "Built Web3 wallet sync for a real regenerative stewardship platform ",
+        "Hackathon survivor: Kachiri and Code · Afrikas Talking · Green World Campaign ",
         "Tested apps on 5 crowd-testing platforms simultaneously - multitasking is my API",
     ]
 ```
