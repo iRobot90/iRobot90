@@ -6,7 +6,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  > whoami                                                    ║
-║  Jesse Amiandah - Full Stack Dev, QA Tester, AI Annotator   ║
+║  Jesse Amiandah - Full Stack Dev, QA Engineer, AI Annotator   ║
 ║  Location: Mombasa, Kenya  //  Status: Open to Remote       ║
 ║  Stack: Python · JS/TS · Django · Next.js · PostgreSQL      ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -20,7 +20,7 @@
 
 ```python
 class Jesse:
-    role       = ["Full Stack Developer", "Manual QA Tester", "AI Data Annotator"]
+    role       = ["Full Stack Developer", "QA Engineer ", "AI Data Annotator"]
     location   = "Mombasa, Kenya 🌍 (Open to Remote)"
     education  = "B.Sc. Information Technology - Technical University of Mombasa (2024)"
     experience = "2+ years self-directed · AIRS platform · 5 crowd-testing platforms"
