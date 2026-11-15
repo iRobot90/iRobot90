@@ -9,12 +9,24 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contribution-assets
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate public contribution calendar
+        run: python3 scripts/contributions.py
+
       - name: Generate Snake (dark + light)
         uses: Platane/snk/svg-only@v3
         with:

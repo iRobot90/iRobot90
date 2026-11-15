@@ -178,8 +178,8 @@ Short, practical notes from the testing side of building software:
 
 <div align="center">
 
-<!-- Auto-updates every time the workflow runs (set up via GitHub Actions) -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iRobot90&bg_color=0a0a0a&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false&border_color=00FF41)
+<!-- Updated daily from public GitHub contribution levels by snake.yml. -->
+[![Public GitHub contribution calendar](https://raw.githubusercontent.com/iRobot90/iRobot90/output/github-contribution-calendar.svg)](https://github.com/iRobot90?tab=overview)
 
 </div>
 
