@@ -22,10 +22,10 @@
 class Jesse:
     role       = ["Full Stack Developer", "QA Engineer ", "AI Data Annotator"]
     location   = "Mombasa, Kenya 🌍 (Open to Remote)"
-    education  = "B.Sc. Information Technology - Technical University of Mombasa (2024)"
+    education  = "B.Sc. Information Technology - Technical University of Mombasa"
     experience = "2+ years self-directed · AIRS platform · 5 crowd-testing platforms"
-    currently  = "Building real products · Growing toward senior-level mentorship"
-    contact    = "amiandajesse27@gmail.com"
+    currently  = "Building secure web apps · Exploring RAG and agent workflows"
+    contact    = "jesse.amianda@chrisdevcode.com"
     fun_facts  = [
         "Debugged production at community radio (SwahilipotFM) - live audience pressure ",
         "Built Web3 wallet sync for a real regenerative stewardship platform ",
@@ -33,6 +33,52 @@ class Jesse:
         "Tested apps on 5 crowd-testing platforms simultaneously - multitasking is my API",
     ]
 ```
+
+---
+
+## `> cat recent-work.md`
+
+Building practical web products and AI support workflows, with security, accessibility and testing as priorities.
+
+- Completed Udacity's **Future AWS Agent Engineer Nanodegree** on **29 October 2026**.
+- Applied agent orchestration and retrieval-augmented generation (RAG) concepts in customer-support projects, then built a local demo that can run without cloud credits.
+- Currently developing **[Twana Baby Shop](https://github.com/iRobot90/twanababyshop)**, **[Petoria](https://github.com/iRobot90/Petoria)**, **[nativeFly](https://github.com/iRobot90/nativeFly)** and **[PayGram](https://github.com/iRobot90/PayGram)**. These are works in progress, with functionality and security first.
+
+## `> cat certifications.md`
+
+| Learning milestone | Issuer | Verification |
+|---|---|---|
+| Future AWS Agent Engineer Nanodegree | Udacity · October 2026 | [Certificate](https://www.udacity.com/certificate/e/be3bef58-900d-11f1-a402-bbffe1372440) |
+| Claude Code in Action | Anthropic · March 2026 | [LinkedIn credentials](https://www.linkedin.com/in/jesse-amiandah/details/certifications/) |
+| Foundations of UX Design & UX Design Process | Google · 2024 | [LinkedIn credentials](https://www.linkedin.com/in/jesse-amiandah/details/certifications/) |
+| Bug Finding, Web Hacking & Test Campaign Tools | TRYBER / UNGUESS · 2024 | [LinkedIn credentials](https://www.linkedin.com/in/jesse-amiandah/details/certifications/) |
+
+The AWS-focused Nanodegree is a **Udacity program-completion credential**, not an AWS certification exam credential. Coursework covered Amazon Bedrock, RAG, multi-agent orchestration, AgentCore, IAM, CloudFormation, CloudWatch and X-Ray.
+
+## `> cat experience.md`
+
+- **Magic:** client operations, AI workflow testing and turning client feedback into actionable product follow-ups.
+- **Freelance QA:** functional, exploratory and usability testing across crowd-testing platforms, with reproducible bug reports and API checks.
+- **Green World Campaign Kenya:** digital research and field-data quality work, alongside contributions to the AIRS platform.
+- **Swahilipot Hub:** community web projects and digital-literacy facilitation.
+
+More detail: [LinkedIn](https://www.linkedin.com/in/jesse-amiandah/) · [Portfolio](https://jesseamiandah-dev.vercel.app)
+
+## `> ls ai-projects/`
+
+| Project | What you can explore |
+|---|---|
+| [Support Lab](https://github.com/iRobot90/support-lab) | Runnable Python/SQLite support-chat demo. The default mode is rules-based; optional local-model and AWS integrations are separate from the offline demo. |
+| [NovaMart Support Case Study](https://github.com/iRobot90/novamart-support-case-study) | Multi-agent support design covering inventory, policy retrieval, refunds and communication. A documented case study, not a hosted production service. |
+| [Customer Support Flow Case Study](https://github.com/iRobot90/customer-support-flow-case-study) | FAQ, bug-report collection and human-handoff flows, with a scripted offline demo. |
+
+## `> cat writing.md`
+
+Short, practical notes from the testing side of building software:
+
+- [QA Testing Randoms: Random Dude](https://www.linkedin.com/pulse/qa-testing-randoms-random-dude-jesse-amiandah-jteof)
+- [QA Testing Randoms: Chapter 1, Module 2](https://www.linkedin.com/pulse/qa-testing-randoms-chapter-1-part-module-2-jesse-amiandah-3igqf)
+- [QA Randoms: 5 Sites Where You Learn to Test and Get Paid](https://medium.com/@jaytheQA/qa-randoms-chapter-1-the-last-module-5-sites-where-you-learn-to-test-and-get-paid-4307b6a00439)
 
 ---
 
@@ -71,6 +117,8 @@ class Jesse:
 ![pytest](https://img.shields.io/badge/pytest-0a0a0a?style=for-the-badge&logo=pytest&logoColor=00FF41)
 ![Jest](https://img.shields.io/badge/Jest-0a0a0a?style=for-the-badge&logo=jest&logoColor=00FF41)
 ![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=00FF41)
+![Selenium](https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=00FF41)
+![Playwright](https://img.shields.io/badge/Playwright-0a0a0a?style=for-the-badge&logo=playwright&logoColor=00FF41)
 
 **Infrastructure & DevOps**
 
@@ -169,7 +217,7 @@ class Jesse:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jesseamiandah--dev.vercel.app-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://jesseamiandah-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jesse--amiandah-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/jesse-amiandah)
-[![Email](https://img.shields.io/badge/Email-amiandajesse27@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:amiandajesse27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jesse.amianda@chrisdevcode.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:jesse.amianda@chrisdevcode.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iRobot90-0a0a0a?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/iRobot90)
 
 </div>
